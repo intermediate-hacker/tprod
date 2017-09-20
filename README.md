@@ -1,7 +1,7 @@
 # tprod
 Minimalistic productivity logging toolkit.
 
-Script 1: Adding an entry
+### Script 1: Adding an entry
 
 usage: python add_entry.py [-h] [-v] [-p] [-C] [-W] T1 T2 N
 
@@ -19,6 +19,6 @@ optional arguments:
   -C, --Class     Add a timestamp for a class attended
   -W, --Wasted    Add a timestamp for time wasted
 
-Script 2: Calculating productivity (also done by script 1 with -v flag)
+### Script 2: Calculating productivity (also done by script 1 with -v flag)
 
 useage: python calc_time.py <filename>
