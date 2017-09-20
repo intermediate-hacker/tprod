@@ -21,4 +21,4 @@ optional arguments:
 
 ### Script 2: Calculating productivity (also done by script 1 with -v flag)
 
-useage: python calc_time.py <filename>
+useage: python calc_time.py filename
